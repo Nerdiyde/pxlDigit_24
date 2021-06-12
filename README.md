@@ -1,2 +1,2 @@
 # pxlDigit_24
- A DIY 24 segment LED display
+ A 24-segment retro style character display
